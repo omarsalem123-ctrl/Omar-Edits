@@ -1,0 +1,13 @@
+h1 {text-align: center; font-size: 65px; color: midnightblue;}
+html {background-color: teal;}
+h2 {font-size: 20px;}
+footer {background-color:slateblue ; padding: 1rem;}
+footer ul {margin: 0; display: flex; justify-content: space-around;}
+header {color: white; display: flex; flex-direction: column; height: 100vh;}
+body {font-family: sans-serif; }
+nav {display: flex; justify-content: space-around; padding: 1.5rem;}
+nav .logo {font-size: 2rem;}
+nav ul {list-style-type: none; display: flex; justify-content: space-between;}
+a {text-decoration: none; color: white;}
+nav ul li {margin: 0 1rem;}
+video {vertical-align: middle;}
